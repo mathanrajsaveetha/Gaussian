@@ -65,7 +65,9 @@ for i in range(n):
 
 ## Output:
 
-![ouput](/Screenshot%20(45).png)
+![ouput](./Screenshot%20(45).png)
+
+
 
 
 
